@@ -28,7 +28,7 @@ From the dataset documentation and community analyses, the core fields you’ll 
 * `Product`
 * `Date`
 * `Amount` (target / label)
-* `Boxes Shipped` ([GitHub][2])
+* `Boxes Shipped`
 
 ---
 
@@ -402,4 +402,3 @@ You’ll have:
 ---
 
 [1]: https://www.kaggle.com/datasets/saidaminsaidaxmadov/chocolate-sales?utm_source=chatgpt.com "Chocolate Sales - Kaggle"
-[2]: https://github.com/kaurmilan/chocolate_sales_analysis?utm_source=chatgpt.com "GitHub - kaurmilan/chocolate_sales_analysis"
