@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+python-dateutil
+kagglehub
+tabulate
+seaborn
